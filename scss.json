@@ -13,6 +13,7 @@
 	// 	"description": "Log output to console"
 	// }
 	"BEM__": {
+		"scope": "scss",
 		"prefix": "1",
 		"body": [
 			"&__${1:element}{"

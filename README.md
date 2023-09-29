@@ -1,2 +1,2 @@
-### Welcome
-# Feel free to use my snippets!
+# Welcome
+## Feel free to use my snippets!
